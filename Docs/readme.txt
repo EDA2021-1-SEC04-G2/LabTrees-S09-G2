@@ -1,1 +1,2 @@
-Responder preguntas y marcar con el nombre de los integrantes
+Gregorio Salazar 202022085
+Valentina Uribe 201817485
